@@ -21,6 +21,7 @@ The datasets used in this repository include:
 2. **Movie** - Movie reviews for sentiment analysis.
 3. **Laptop** - Gauge price changes for various laptop specifications.
 4. **Diabetes** - To understand influence of factors such as insulin, blood pressure, skin thickness, etc. on diabetic/non-diabetic individuals.
+5. **SONAR** - Assess a given substance to determine whether it is a rock or a mine based on the parameters present in the dataset.
 
 ## Models
 
